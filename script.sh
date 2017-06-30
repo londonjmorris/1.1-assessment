@@ -8,3 +8,5 @@ echo "h1{color:red;font-family:sans-serif;text-decoration:underline;}" > styles.
 echo "Hello World!" > README.md
 read -p "Press [Enter] key to continue..."
 echo 'Congratulations'
+cd ..
+mv project boilerplate
